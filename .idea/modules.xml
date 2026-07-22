@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/libvoronoi.iml" filepath="$PROJECT_DIR$/libvoronoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibVoronoi.iml" filepath="$PROJECT_DIR$/LibVoronoi.iml" />
     </modules>
   </component>
 </project>
