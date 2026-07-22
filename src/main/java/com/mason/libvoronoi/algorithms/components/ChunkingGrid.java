@@ -2,12 +2,12 @@ package com.mason.libvoronoi.algorithms.components;
 
 import com.mason.libvoronoi.algorithms.CentroidNeighbourhoodSearch;
 import com.mason.libvoronoi.io.CentroidDataReader;
-import com.mason.libvoronoi.structures.Coord;
-import com.mason.libvoronoi.structures.Rect;
-import com.mason.libvoronoi.structures.Size;
-import com.mason.libvoronoi.structures.interfaces.RectQuery;
-import com.mason.libvoronoi.structures.lowMemory.CardinalIndexNeighbours;
-import com.mason.libvoronoi.structures.lowMemory.ShortGrid;
+import com.mason.libstruct.geo.Coord;
+import com.mason.libstruct.geo.Rect;
+import com.mason.libstruct.geo.Size;
+import com.mason.libstruct.interfaces.RectQuery;
+import com.mason.libstruct.lowMemory.CardinalIndexNeighbours;
+import com.mason.libstruct.lowMemory.ShortGrid;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

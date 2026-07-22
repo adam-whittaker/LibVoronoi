@@ -1,9 +1,9 @@
 package com.mason.libvoronoi.misc;
 
 import com.mason.libvoronoi.algorithms.voronoi.RandomCoordGenerator;
-import com.mason.libvoronoi.structures.Coord;
-import com.mason.libvoronoi.structures.Size;
-import com.mason.libvoronoi.structures.interfaces.RectQuery;
+import com.mason.libstruct.geo.Coord;
+import com.mason.libstruct.geo.Size;
+import com.mason.libstruct.interfaces.RectQuery;
 
 import java.util.HashSet;
 import java.util.Random;

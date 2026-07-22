@@ -5,7 +5,7 @@ import com.mason.libvoronoi.algorithms.CentroidFloodFill;
 import com.mason.libvoronoi.algorithms.FloodFillAnnexQuery;
 import com.mason.libvoronoi.algorithms.components.CentroidData;
 import com.mason.libvoronoi.algorithms.components.ChunkingGrid;
-import com.mason.libvoronoi.structures.Size;
+import com.mason.libstruct.geo.Size;
 
 import java.util.Random;
 

@@ -1,7 +1,7 @@
 package com.mason.libvoronoi.algorithms.voronoi;
 
-import com.mason.libvoronoi.structures.Coord;
-import com.mason.libvoronoi.structures.Size;
+import com.mason.libstruct.geo.Coord;
+import com.mason.libstruct.geo.Size;
 
 import java.util.Set;
 

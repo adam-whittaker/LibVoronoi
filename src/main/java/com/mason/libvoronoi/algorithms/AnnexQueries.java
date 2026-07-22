@@ -2,7 +2,7 @@ package com.mason.libvoronoi.algorithms;
 
 import com.mason.libvoronoi.algorithms.components.CentroidData;
 import com.mason.libvoronoi.algorithms.components.ChunkingGrid;
-import com.mason.libvoronoi.structures.Coord;
+import com.mason.libstruct.geo.Coord;
 
 import java.util.Random;
 

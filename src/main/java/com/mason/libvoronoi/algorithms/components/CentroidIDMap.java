@@ -1,7 +1,7 @@
 package com.mason.libvoronoi.algorithms.components;
 
 import com.mason.libvoronoi.io.CentroidDataReader;
-import com.mason.libvoronoi.structures.Coord;
+import com.mason.libstruct.geo.Coord;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

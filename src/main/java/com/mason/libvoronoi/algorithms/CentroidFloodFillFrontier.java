@@ -1,8 +1,8 @@
 package com.mason.libvoronoi.algorithms;
 
 import com.mason.libvoronoi.algorithms.components.ChunkingGrid;
-import com.mason.libvoronoi.structures.Coord;
-import com.mason.libvoronoi.structures.lowMemory.CardinalIndexNeighbours;
+import com.mason.libstruct.geo.Coord;
+import com.mason.libstruct.lowMemory.CardinalIndexNeighbours;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
